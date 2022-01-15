@@ -1,0 +1,3 @@
+C:\Users\Nikita\Desktop\KPI\Prog\kursovaZakharenko\kursovaZakharenko\Debug\kursovaZakharenko.vcxprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\KPI\Prog\kursovaZakharenko\kursovaZakharenko\Debug\kursovaZakharenko.Form1.resources
+C:\Users\Nikita\Desktop\KPI\Prog\kursovaZakharenko\kursovaZakharenko\Debug\kursovaZakharenko.vcxproj.GenerateResource.cache

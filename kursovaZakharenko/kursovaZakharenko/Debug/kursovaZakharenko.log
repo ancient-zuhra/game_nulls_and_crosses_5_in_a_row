@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+C:\Users\Nikita\Desktop\KPI\Prog\kursovaZakharenko\kursovaZakharenko\Form1.h(482,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nikita\Desktop\KPI\Prog\kursovaZakharenko\kursovaZakharenko\Form1.h(483,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nikita\Desktop\KPI\Prog\kursovaZakharenko\kursovaZakharenko\Form1.h(489,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nikita\Desktop\KPI\Prog\kursovaZakharenko\kursovaZakharenko\Form1.h(497,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nikita\Desktop\KPI\Prog\kursovaZakharenko\kursovaZakharenko\Form1.h(547,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nikita\Desktop\KPI\Prog\kursovaZakharenko\kursovaZakharenko\Form1.h(548,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nikita\Desktop\KPI\Prog\kursovaZakharenko\kursovaZakharenko\Form1.h(636,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nikita\Desktop\KPI\Prog\kursovaZakharenko\kursovaZakharenko\Form1.h(637,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nikita\Desktop\KPI\Prog\kursovaZakharenko\kursovaZakharenko\Form1.h(643,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nikita\Desktop\KPI\Prog\kursovaZakharenko\kursovaZakharenko\Form1.h(644,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Form1.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  kursovaZakharenko.vcxproj -> C:\Users\Nikita\Desktop\KPI\Prog\kursovaZakharenko\Debug\kursovaZakharenko.exe
